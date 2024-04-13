@@ -1,0 +1,10 @@
+venv/*
+__pycode__/*
+db.sqlite3
+media/*
+static/*
+requirements.txt
+*.log
+*.cache
+tests/*
+vscode/*
